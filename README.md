@@ -1,4 +1,4 @@
- Hi there I am an aspiring software developer 👋
+ Hi there I am a Full stack developer 👋
 
 
 . 🔭 I’m currently working on a chrome exension project
